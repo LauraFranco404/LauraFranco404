@@ -1,5 +1,7 @@
 # Hi there! I’m Laura Franco
 
+Systems Engineering student — Pontificia Universidad Javeriana Cali
+
 Passionate about programming, IoT, geospatial systems, and smart data-driven applications.
 
 Interested in software engineering, database design, scalable architectures, distributed systems, and cloud development.
