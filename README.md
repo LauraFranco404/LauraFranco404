@@ -1,4 +1,4 @@
-Hi there! I’m Laura Franco
+# Hi there! I’m Laura Franco
 
 Systems Engineering student — Pontificia Universidad Javeriana Cali
 Passionate about proggraming, IoT, geospatial analysis, smart systems.
