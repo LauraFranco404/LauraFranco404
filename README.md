@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi there! I’m Laura Franco
 
-<!--
-**LauraFranco404/LauraFranco404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering student — Pontificia Universidad Javeriana Cali
+Passionate about proggraming, IoT, geospatial analysis, smart systems.
+Interested in software engineering, database design, scalable architectures, and data-driven applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on
+
+* Thesis project: Geospatial monitoring platform for urban animal-health risks in Cali
+* Strengthening knowledge in Cloud, IoT architectures, and Applied AI
+* Building software projects with Python, Django, Docker, PostgreSQL, and microservices
+
+---
+
+### Featured projects
+
+* Smart irrigation system (simulated IoT + Django + MQTT + PostgreSQL)
+* HealthData Center — healthcare data management platform focused on records, security, and structured health information workflows
+* Geosocial platform for domestic animal monitoring (university thesis)
+* POS System prototype — inventory, billing & product management (Python / SQL)
+* AetherDrop — microservices-based cloud automation demo.
+* CreepyAtlas — indie game project (Java + LWJGL)
+
+---
+
+### 🧠 Skills & Tech
+
+| Languages    | Frameworks    | Cloud / DevOps | Other Tech                        |
+| ------------ | ------------- | -------------- | --------------------------------- |
+| Python, Java, C, C++ | Django, Flask | AWS, Docker    | MySQL, MongoDB, MQTT, GIS, PostgreSQL, WebSockets |
+
+---
+
+### Contact
+
+**GitHub:** [https://github.com/LauraFranco404](https://github.com/LauraFranco404)
+
+**LinkedIn:** [Laura Franco](https://www.linkedin.com/in/laura-franco-404-)
+
+**Academic email:** [lcfranco@javerianacali.edu.co](mailto:lcfranco@javerianacali.edu.co)
+
+**Personal email:** [laurafranco1116@gmail.com](mailto:laurafranco1116@gmail.com)
