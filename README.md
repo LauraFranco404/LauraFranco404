@@ -1,46 +1,36 @@
-# Hi there! I’m Laura Franco
+# Hi, I'm Laura Franco 👋
 
-Systems Engineering student — Pontificia Universidad Javeriana Cali
+**Software developer | Backend · Full Stack · Systems integration**
 
-Passionate about programming, IoT, geospatial systems, and smart data-driven applications.
+Cali, Colombia · Systems and Computer Engineering student (10th semester) at Pontificia Universidad Javeriana Cali.
 
-Interested in software engineering, database design, scalable architectures, distributed systems, and cloud development.
+I build web applications, connect business systems, and automate workflows. During my six-month internship at **Chilitaco**, I worked on a customer request platform, operational reports, data processing, and enterprise integrations. I enjoy turning requirements into software that people can use and maintain.
 
----
+### Selected work
 
-### Currently working on
+| Project | What it does | Technologies |
+| --- | --- | --- |
+| **[A4MPets](https://github.com/orgs/A4MPets/repositories)** | My defended thesis project: a collaborative geospatial prototype for reporting and monitoring urban animal-health risks in Cali. **Thesis grade: 5.0/5.0.** The repository is private. | Flutter, Laravel, Supabase, GIS, REST APIs, Docker |
+| **[POS System](https://github.com/LauraFranco404/POS_system)** | Records purchases and sales while managing products and inventory. | React, JavaScript, Python, Django, PyMongo |
+| **[Health Data Center](https://github.com/LauraFranco404/health_data_center)** | Simulated health sensors send data through a multiprotocol gateway and MQTT broker into PostgreSQL. | Python, REST, gRPC, WebSockets, MQTT, PostgreSQL, Docker Compose |
+| **[AetherDrop](https://github.com/LauraFranco404/AetherDrop)** | University delivery prototype with requests, routes, and map-based device tracking. In development. | React, Leaflet, Python, Django, PyMongo |
+| **[Smart irrigation](https://github.com/LauraFranco404/riego-inteligente)** | Simulated soil moisture, nutrient, and temperature sensors with an API for sensor readings. | Python, Django, SQLite |
 
-* Thesis project: Geospatial monitoring platform for urban animal-health risks in Cali
-* Strengthening knowledge in Cloud, IoT architectures, and Applied AI
-* Building software projects with Python, Django, Docker, PostgreSQL, and microservices
+I also developed **DocGenerator**, a React application that uses the GitHub REST API and GitHub Models to draft repository README files and architecture documentation.
 
----
+### Experience and skills
 
-### Featured projects
+- **Web development:** PHP, JavaScript, HTML, CSS, React, Flutter, Laravel, Django, REST APIs.
+- **Data and integration:** MySQL, PostgreSQL, Supabase, MongoDB, SQL modeling, JSON, XML, MQTT, WebSockets.
+- **Tools and engineering:** Git, GitHub, Docker, Python automation, Playwright, SharePoint, Power Automate, requirements analysis, testing, and technical documentation.
+- **Cloud foundations:** AWS Academy Graduate – Cloud Foundations (2025).
 
-* Smart irrigation system (simulated IoT + Django + MQTT + PostgreSQL)
-* HealthData Center — healthcare data management platform focused on records, security, and structured health information workflows
-* Geosocial platform for domestic animal monitoring (university thesis)
-* POS System prototype — inventory, billing & product management (Python / SQL)
-* AetherDrop — microservices-based cloud automation demo.
-* CreepyAtlas — indie game project (Java + LWJGL)
+At **Chilitaco (April–October 2026)**, I developed and improved a PHP/MySQL platform for customer requests, including case tracking, Kanban-style statuses, filters, CSV/Excel import and export, and reports. I also participated in Menupp–Siesa integration testing, XML validation, Python automation, deployment, and functional testing.
 
----
+At **Pontificia Universidad Javeriana Cali**, I support the Systems Laboratory with equipment checks, user support, and incident tracking. I previously tutored students in digital logic, computability, complexity, and algorithm analysis.
 
-### 🧠 Skills & Tech
+### Get in touch
 
-| Languages    | Frameworks    | Cloud / DevOps | Other Tech                        |
-| ------------ | ------------- | -------------- | --------------------------------- |
-| Python, Java, C, C++ | Django, Flask | AWS, Docker    | MySQL, MongoDB, MQTT, GIS, PostgreSQL, WebSockets |
-
----
-
-### Contact
-
-**GitHub:** [https://github.com/LauraFranco404](https://github.com/LauraFranco404)
-
-**LinkedIn:** [Laura Franco](https://www.linkedin.com/in/laura-franco-404-)
-
-**Academic email:** [lcfranco@javerianacali.edu.co](mailto:lcfranco@javerianacali.edu.co)
-
-**Personal email:** [laurafranco1116@gmail.com](mailto:laurafranco1116@gmail.com)
+- **Portfolio:** [laurafranco404.github.io](https://laurafranco404.github.io/)
+- **LinkedIn:** [Laura Franco](https://www.linkedin.com/in/laura-franco-404-/)
+- **Email:** [laurafranco1116@gmail.com](mailto:laurafranco1116@gmail.com)
