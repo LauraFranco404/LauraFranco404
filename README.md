@@ -1,4 +1,4 @@
-# Hi, I'm Laura Franco 👋
+# Hi, I'm Laura Franco
 
 **Software developer | Backend · Full Stack · Systems integration**
 
